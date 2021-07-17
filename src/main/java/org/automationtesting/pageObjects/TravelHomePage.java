@@ -43,7 +43,6 @@ public class TravelHomePage {
     }
 
     public String getTitle() {
-        System.out.println("Hello");
         return driver.getTitle();
     }
 
